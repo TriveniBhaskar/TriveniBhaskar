@@ -27,9 +27,6 @@ I'm actively looking for full-time roles such as Data Analyst, AI Engineer, and 
 ## Triveni Bhaskar's GitHub Stats
 ![Triveni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TriveniBhaskar&layout=compact&theme=radical)
-
 ## Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
