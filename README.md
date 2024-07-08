@@ -47,5 +47,7 @@ I'm actively looking for full-time roles such as Data Analyst, AI Engineer, and 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-008000?style=for-the-badge&logo=machine-learning&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F61?style=for-the-badge&logo=data-visualization&logoColor=white)
 
 Happy to stay connected!
