@@ -1,8 +1,12 @@
 # Hi there 👋
 
-I'm **Triveni Bhaskar**, an accomplished Software Analyst with a strong academic foundation. I hold a Bachelor’s degree in Information Science and Engineering and am currently pursuing a Master’s degree in Business Analytics. I bring 2 years of experience as a Software Analyst at Infor, where I demonstrated success in analyzing and optimizing foundational technologies crucial to the success of startups.
+I'm **Triveni Bhaskar**, an accomplished Software Analyst with a strong academic foundation. I hold a Bachelor’s degree in Information Science and Engineering and am currently pursuing a Master’s degree in Business Analytics. I bring 2 years of experience as a Software Analyst at Infor, where I demonstrated success in analyzing and optimizing foundational technologies crucial to the success of ERP.
 
-I am skilled in navigating ambiguity, taking ownership, and leveraging entrepreneurial acumen to influence product inception and drive growth. My proven track record of collaborating effectively within founding teams of leading tech companies has fostered enduring relationships and delivered impactful outcomes in dynamic startup environments. Currently, I am further enhancing my expertise as a Data Analyst at my university.
+Data analyst with a robust background in data analysis and information science. Proficient in Python, SQL, Tableau, and PowerBI in delivering actionable insights from complex datasets. Skilled in using advanced statistical methods and data visualization techniques to drive strategic decision-making.
+
+Sophisticated in orchestrating end-to-end data processes, encompassing data extraction, cleansing, interpretation, and transformation.
+
+Integrated ERP solutions with global datasets, leveraging liaison, Jira, CSP, Xtreme, and PagerDuty for seamless communication and integration across teams.
 
 I am passionate about leveraging advanced analytical skills and innovative thinking to solve complex challenges and drive strategic initiatives.
 
